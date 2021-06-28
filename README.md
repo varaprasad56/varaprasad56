@@ -1,6 +1,6 @@
 <h1 align="center"> Namaste!, I'm Vara Prasad</h1>
 <h3 align="center"> Full Stack, AEM Developer! </h3>
-<img src="https://github.com/varaprasad56/varaprasad56/blob/main/Coding_Monochromatic.png" alt="Illustration" width="600" align="right" />
+<img src="https://github.com/varaprasad56/varaprasad56/blob/main/Coding_Monochromatic.png" alt="Illustration" width="400" align="right" />
 - 🌱 I’m currently learning **Spring Boot and React**
 
 - 📫 How to reach me **varaprasad.512@gmail.com**
